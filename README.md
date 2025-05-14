@@ -9,7 +9,6 @@ Elle est conçue pour **comprendre** les grands principes de la cryptographie à
 
 ## 🔁 Principe général du protocole
 
-![Schéma KEM simplifié](./images/kem_diagram.png)
 
 ### 1. `KeyGen()`  
 - Bob génère une **paire (pk, sk)** :
